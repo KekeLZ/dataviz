@@ -1,0 +1,89 @@
+.line-chart-path {
+    stroke: #1f77b4; /* Replace with the color of the first image's line */
+    stroke-width: 2;
+    fill: none;
+}
+
+.line-chart-axis path,
+.line-chart-axis line {
+    stroke: #ccc; /* Replace with the color of the first image's axis lines */
+}
+
+.line-chart-axis text {
+    fill: #333; /* Replace with the color of the first image's axis text */
+    font-size: 10px; /* Adjust the font size as needed */
+}
+
+.sankey-link {
+    fill: none;
+    stroke: #1f77b4; /* Replace with the color of the first image's links */
+    stroke-opacity: 0.5; /* Adjust the opacity as needed */
+}
+
+.node rect {
+    fill: #1f77b4; /* Replace with the color of the first image's nodes */
+    stroke: #fff; /* Typically, nodes have a white border */
+}
+
+.node text {
+    fill: #333; /* Replace with the color of the first image's node labels */
+    font-size: 10px; /* Adjust the font size as needed */
+}
+
+
+
+/* styles.css content for the bar chart visualization */
+
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#bar-chart {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styles for the Select2 boxes */
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #e4e4e4;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #999;
+    cursor: pointer;
+    display: inline-block;
+    margin-right: 2px;
+}
+
+/* Responsive layout adjustments */
+@media (max-width: 768px) {
+    .chart-container {
+        width: 95%;
+    }
+}
+
+@media (max-width: 480px) {
+    .chart-container {
+        width: 90%;
+    }
+
+    .select2-container {
+        width: 100% !important; /* Force the select box to fit the container */
+    }
+}

@@ -1,0 +1,627 @@
+{
+  "nodes": [
+    {
+      "name": "All Cases"
+    },
+    {
+      "name": "Undefined"
+    },
+    {
+      "name": "Gender"
+    },
+    {
+      "name": "Racioethnicity"
+    },
+    {
+      "name": "Education"
+    },
+    {
+      "name": "Disability"
+    },
+    {
+      "name": "Family/Care Situation"
+    },
+    {
+      "name": "Beliefs"
+    },
+    {
+      "name": "Sexual Orientation"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1,
+      "year": 1973
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2,
+      "year": 1975
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 5,
+      "year": 1978
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 8,
+      "year": 1979
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 10,
+      "year": 1980
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 15,
+      "year": 1981
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 19,
+      "year": 1982
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 31,
+      "year": 1983
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 38,
+      "year": 1984
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 52,
+      "year": 1985
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 62,
+      "year": 1986
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 70,
+      "year": 1987
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 90,
+      "year": 1988
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 111,
+      "year": 1989
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 131,
+      "year": 1990
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 160,
+      "year": 1992
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 197,
+      "year": 1993
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 236,
+      "year": 1994
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 299,
+      "year": 1995
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 344,
+      "year": 1996
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 393,
+      "year": 1997
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 474,
+      "year": 1998
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 586,
+      "year": 1999
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 679,
+      "year": 2000
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 795,
+      "year": 2001
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 925,
+      "year": 2002
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1046,
+      "year": 2003
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1175,
+      "year": 2004
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1320,
+      "year": 2005
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1461,
+      "year": 2006
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1608,
+      "year": 2007
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1773,
+      "year": 2008
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1972,
+      "year": 2009
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2181,
+      "year": 2010
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2467,
+      "year": 2011
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2784,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3062,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3383,
+      "year": 2014
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 3702,
+      "year": 2015
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 4120,
+      "year": 2016
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 4458,
+      "year": 2017
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 4809,
+      "year": 2018
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 5089,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 5500,
+      "year": 2020
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 5797,
+      "year": 2021
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 6066,
+      "year": 2022
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "value": 6334,
+      "year": 2023
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 2,
+      "year": 2011
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 3,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 10,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 19,
+      "year": 2014
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 24,
+      "year": 2015
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 30,
+      "year": 2016
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 38,
+      "year": 2017
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 44,
+      "year": 2018
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 48,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 60,
+      "year": 2020
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 64,
+      "year": 2021
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1,
+      "year": 2008
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 5,
+      "year": 2011
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 7,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 9,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 10,
+      "year": 2014
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 14,
+      "year": 2015
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 18,
+      "year": 2016
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 20,
+      "year": 2017
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 25,
+      "year": 2018
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 27,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 39,
+      "year": 2020
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 47,
+      "year": 2021
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 48,
+      "year": 2023
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 2,
+      "year": 2011
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 3,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 5,
+      "year": 2016
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 8,
+      "year": 2018
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 9,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 2,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 3,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 9,
+      "year": 2014
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 10,
+      "year": 2016
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 12,
+      "year": 2017
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 18,
+      "year": 2018
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 20,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 21,
+      "year": 2020
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 23,
+      "year": 2021
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 1,
+      "year": 2006
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 2,
+      "year": 2007
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 3,
+      "year": 2010
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 2,
+      "year": 2011
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 3,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 4,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 5,
+      "year": 2014
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 7,
+      "year": 2015
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 8,
+      "year": 2017
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 10,
+      "year": 2019
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 1,
+      "year": 2012
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 2,
+      "year": 2013
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 3,
+      "year": 2015
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 4,
+      "year": 2020
+    }
+  ]
+}

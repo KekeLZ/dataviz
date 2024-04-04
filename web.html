@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EDI Visualization</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-sankey/0.12.3/d3-sankey.min.js"></script> <!-- Ensure compatibility with d3 version -->
+</head>
+<body>
+
+<div class="g-item g-graphic fox-ladder">
+    <div id="chart-controls">
+        <!-- EDI Issue Multi-select -->
+        <label for="chart-type-select">Select Chart Types (EDI Issues):</label>
+        <select id="chart-type-select" multiple="multiple">
+            <!-- EDI Issue options will be populated dynamically -->
+        </select>
+
+        <!-- Discipline Multi-select -->
+        <label for="discipline-select">Select Disciplines:</label>
+        <select id="discipline-select" multiple="multiple">
+            <!-- Discipline options will be populated dynamically -->
+        </select>
+    </div>
+    <div id="bar-chart"></div>
+    <div id="line-chart"></div>
+    <div id="sankey"></div>
+</div>
+
+<!-- Include jQuery first -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<script src="chart-script.js"></script>
+<script src="bar-chart-script.js"></script>
+<script src="sankey-script.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('#chart-type-select').select2({
+            placeholder: "Select Chart Types",
+            allowClear: true
+        });
+        $('#discipline-select').select2({
+            placeholder: "Select Disciplines",
+            allowClear: true
+        });
+
+    });
+</script>
+
+</body>
+</html>
